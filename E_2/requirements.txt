@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+Pillow
+torch
+jupyter
+nbformat
+nbconvert

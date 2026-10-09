@@ -1,0 +1,21 @@
+{
+  "fuente": "OpenML data_id=40996",
+  "total": 70000,
+  "dimensiones": [
+    28,
+    28
+  ],
+  "clases": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ],
+  "semilla": 42
+}

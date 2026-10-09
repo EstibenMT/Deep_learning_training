@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "epochs_max": 20,
+  "patience": 5,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4070 Ti",
+  "best_epoch": 18,
+  "best_val_loss": 0.22125756916523512,
+  "training_seconds": 37.34003340000072
+}
